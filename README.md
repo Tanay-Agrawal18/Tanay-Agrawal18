@@ -394,20 +394,26 @@ Sun    ██████░░░░░░░░░░░   38%
 
 <br/>
 
-<!-- Stats + Streak Side by Side -->
+<!-- Streak Stats (working) -->
 <a href="https://github.com/Tanay-Agrawal18">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanay-Agrawal18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Tanay-Agrawal18">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Tanay-Agrawal18&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8B949E" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Tanay-Agrawal18&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8B949E" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- Languages Donut -->
-<a href="https://github.com/Tanay-Agrawal18">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay-Agrawal18&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
-</a>
+<!-- Profile Summary Cards (reliable alternative) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanay-Agrawal18&theme=radical" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanay-Agrawal18&theme=radical" alt="Top Languages by Repo" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanay-Agrawal18&theme=radical" alt="Top Languages by Commit" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanay-Agrawal18&theme=radical&utcOffset=5.5" alt="Productive Time" />
+
+<br/><br/>
+
+<!-- Profile Details -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanay-Agrawal18&theme=radical" alt="Profile Details" />
 
 <br/><br/>
 
