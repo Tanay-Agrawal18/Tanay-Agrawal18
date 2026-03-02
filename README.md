@@ -438,7 +438,11 @@ Sun    ██████░░░░░░░░░░░   38%
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tanay-Agrawal18&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tanay-Agrawal18&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+
+<br/>
+
+<sub>⚠️ <i>Trophy cards may take a moment to load — they are generated dynamically</i></sub>
 
 </div>
 
@@ -454,7 +458,7 @@ Sun    ██████░░░░░░░░░░░   38%
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="35" /> &nbsp;Competitive Programming & DSA
+## 🧩 &nbsp;Competitive Programming & DSA
 
 <br/>
 
@@ -651,7 +655,7 @@ Sun    ██████░░░░░░░░░░░   38%
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Headphone.png" width="35" /> &nbsp;Vibes While Coding
+## 🎧 &nbsp;Vibes While Coding
 
 <br/>
 
