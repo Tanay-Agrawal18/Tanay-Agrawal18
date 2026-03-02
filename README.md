@@ -275,19 +275,102 @@ Sun    ██████░░░░░░░░░░░   38%
 
 <br/>
 
-<a href="https://github.com/Tanay-Agrawal18">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanay-Agrawal18&repo=Tanay-Agrawal18&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" alt="Repo Card" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- 
-  📌 ADD YOUR BEST REPOS BELOW — Replace 'REPO_NAME' with actual repo names:
+<h3 align="center">💬 Novachats</h3>
 
-<a href="https://github.com/Tanay-Agrawal18/REPO_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanay-Agrawal18&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" />
-</a>
--->
+<br/>
 
-<br/><br/>
+<div align="center">
+  <a href="https://github.com/Tanay-Agrawal18/Novachats" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repo-A855F7?style=for-the-badge&logoColor=white" alt="Repo"/>
+  </a>
+</div>
+
+<br/>
+
+<p align="center">A real-time chat application with modern UI, instant messaging capabilities, and seamless user experience.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📹 Video Call Web</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Tanay-Agrawal18/video-call-web" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repo-A855F7?style=for-the-badge&logoColor=white" alt="Repo"/>
+  </a>
+</div>
+
+<br/>
+
+<p align="center">A peer-to-peer video calling web application with WebRTC for real-time video & audio communication.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📱 My WhatsApp</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Tanay-Agrawal18/My-whatsapp" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repo-A855F7?style=for-the-badge&logoColor=white" alt="Repo"/>
+  </a>
+</div>
+
+<br/>
+
+<p align="center">A full-featured WhatsApp clone with real-time messaging, authentication, and a pixel-perfect chat interface.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 More Coming Soon...</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=300&height=30&lines=Building+something+amazing...+🔨;Stay+tuned!+⭐" alt="Coming Soon" />
+</div>
+
+<br/>
+
+<p align="center">Exciting new projects in development. Star my repos to stay updated!</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coming-Soon-A855F7?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://github.com/Tanay-Agrawal18?tab=repositories">
   <img src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-A855F7?style=for-the-badge&logoColor=white&logo=repo" alt="All Repos"/>
